@@ -1,3 +1,4 @@
 **Capturas de tela de demonstração**
 
-![image](https://github.com/user-attachments/assets/d6d8bd95-1f23-4bc2-8f07-be310c5dc175)
+![image](https://github.com/user-attachments/assets/42331310-8fb7-432e-b66e-ecb183b15b77)
+
