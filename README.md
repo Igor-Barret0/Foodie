@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <h2 align="center">Foodie - Fast food website</h2>
+  <h2 align="center">Foodie – Site de fast food</h2>
 
  Foodie é um site de fast food totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
@@ -29,13 +29,13 @@ Para executar o **Foodie** localmente, execute este comando no seu git bash:
 Linux e macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/foodie.git
+sudo git clone https://github.com/Igor-Barret0/Foodie.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/foodie.git
+git clone https://github.com/Igor-Barret0/Foodie.git
 ```
 
 ### Licença
