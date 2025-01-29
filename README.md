@@ -6,29 +6,27 @@
 
   <h2 align="center">Foodie - Fast food website</h2>
 
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
- 
+ Foodie é um site de fast food totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Imagem de Demonstração
 
 ![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+### Pré-requisitos
 
-Before you begin, ensure you have met the following requirements:
+Antes de começar, certifique-se de atender aos seguintes requisitos:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git") deve estar instalado em seu sistema operacional.
 
-### Run Locally
+### Execute localmente
 
-To run **Foodie** locally, run this command on your git bash:
+Para executar o **Foodie** localmente, execute este comando no seu git bash:
 
-Linux and macOS:
+Linux e macOS:
 
 ```bash
 sudo git clone https://github.com/codewithsadee/foodie.git
@@ -40,10 +38,6 @@ Windows:
 git clone https://github.com/codewithsadee/foodie.git
 ```
 
-### Contact
+### Licença
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Este projeto é **de uso gratuito** e não contém nenhuma licença.
